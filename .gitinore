@@ -1,0 +1,36 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment files
+.env
+venv/
+*.env
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and outputs
+*.log
+*.sqlite
+*.csv
+outputs/
+data/processed/
+docs/architecture.png
+
+# Model weights or large files
+*.pth
+*.pt
+*.ckpt
+
+# Node/Streamlit cache
+.streamlit/
+*.js.map
+
+# VSCode or PyCharm configs
+.vscode/
+.idea/
