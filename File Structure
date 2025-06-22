@@ -1,0 +1,14 @@
+GeoCoT-AI/
+├── docs/
+│   └── architecture.md, checkpoints.md
+├── model/
+│   └── llm_handler.py, rag_module.py
+├── backend/
+│   └── api.py, orchestrator.py
+├── frontend/
+│   └── app.py, components/
+├── data/
+│   └── raw/, processed/, sample_queries.yaml
+├── .gitignore
+├── README.md
+├── requirements.txt
