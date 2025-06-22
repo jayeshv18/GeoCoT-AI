@@ -1,0 +1,10 @@
+streamlit
+flask
+geopandas
+gdal
+folium
+langchain
+chromadb
+openai
+transformers
+rasterio
